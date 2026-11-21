@@ -1,1 +1,2 @@
 Login page: username and password fields
+Login page: added Forgot Password link
